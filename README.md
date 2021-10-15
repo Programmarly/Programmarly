@@ -1,3 +1,4 @@
+<img src="https://tenor.com/view/anime-boy-studying-thinking-writing-gif-12939075">
  <h1 align="center">Hi 👋, I'm Harshit S Soni</h1>
 <h3 align="center">A CSE Sophomore trying to Learn new things and bashing his head over AI.</h3>
 
