@@ -24,8 +24,7 @@ I love reading articles and comics.
 - ⚡ Fun fact - **I am learning German! 🇩🇪**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/programmarly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="programmarly" height="30" width="40" /></a>
+<p align="left"><a href="https://instagram.com/programmarly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="programmarly" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@programmarly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@programmarly" height="30" width="40" /></a>
 </p>
 
