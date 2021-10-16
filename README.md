@@ -1,5 +1,5 @@
 <img align =" left " alt = "banner" width = "1800"  src="https://github.com/Programmarly/Programmarly/blob/main/banner.png">
- <h1 align="center">Hi 👋, I'm Harshit S Soni</h1>
+ <h1 align="center">Hi <img src ="https://github.com/Programmarly/Programmarly/blob/main/wave-hand.gif">, I'm Harshit S Soni</h1>
 <h3 align="center"> A CSE Sophomore trying to Learn new things and bashing his head over AI.</h3>
 
 <h3 align = "left">Gist About me:</h3>
