@@ -2,6 +2,7 @@
  <h1 align="center">Hi <img alt = "wave" width = "40" src ="https://github.com/Programmarly/Programmarly/blob/main/wave-hand.gif">, I'm Harshit S Soni!</h1>
 <h3 align="center"> A CSE Sophomore trying to Learn new things and bashing his head over AI.</h3>
 
+<img align =" left " alt = "banner"  src="https://github.com/Programmarly/Programmarly/blob/main/LbaOHbe.gif">
 <h3 align = "left">Gist About me:</h3>
  
 <p> A learner , a cyclist , a bingewatcher and a kabaddi player. </p> 
