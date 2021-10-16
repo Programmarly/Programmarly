@@ -13,11 +13,15 @@ I love reading articles and comics.
  
  <h3 align = "left">More Info:</h3>
 
-- 🔭 Pronouns **He/him**
+- 🔭 Pronouns  **He/him**
+
+- 😄 Likes **Sleeping , reading comics , travelling , eating , programming , watching movies....**
+
+- 😒  Dislikes **Arguments , fights , Noise , Peanut Butter 😛 , Broccoli 🥦**
 
 - 📫 Reach me at **harshit24337@gmail.com**
 
-- ⚡ Fun fact - **I am learning German!**
+- ⚡ Fun fact - **I am learning German! 🇩🇪**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
