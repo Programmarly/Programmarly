@@ -2,9 +2,8 @@
  <h1 align="center">Hi <img alt = "wave" width = "40" src ="https://github.com/Programmarly/Programmarly/blob/main/wave-hand.gif">, I'm Harshit S Soni!</h1>
 <h3 align="center"> A CSE Sophomore trying to Learn new things and bashing his head over AI.</h3>
 
-<img align =" left " alt = "banner"  src="https://github.com/Programmarly/Programmarly/blob/main/LbaOHbe.gif">
 <h3 align = "left">Gist About me:</h3>
- 
+ <img align =" right " alt = "gif" src="https://github.com/Programmarly/Programmarly/blob/main/LbaOHbe.gif">
 <p> A learner , a cyclist , a bingewatcher and a kabaddi player. </p> 
 I love reading articles and comics. 
 <p>Currently , my focus is on learning C, after that i'll move on to C++ and then Data Structures and Algorithms is a need nowadays so i gotta learn that too! </p>
